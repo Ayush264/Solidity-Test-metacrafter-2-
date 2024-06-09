@@ -1,5 +1,7 @@
 # Solidity-Test-metacrafter-2-
-#### DESCRIPTION
+This solidity program "token.sol" is a simple program which imitates the token creation with 3 variables and (minting and burning coins) process on my local Blockchain with remix IDE.
+
+### DESCRIPTION
 ## MyToken Smart Contract
 
 This Solidity smart contract implements a basic token with minting and burning capabilities. Below is a detailed description of the components and functionality provided by this contract.
